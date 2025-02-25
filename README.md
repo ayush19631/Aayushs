@@ -1,3 +1,3 @@
 # Aayushs
-This is my Second Repository<br>
-Author Aayush
+This is my Second Repository.<br>
+Author - Aayush
